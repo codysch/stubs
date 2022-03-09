@@ -1,7 +1,9 @@
 [package]
 name = "thread_compat"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 description = "std::thread passthrough, designed to be patched on a per-workspace level to provide alternate workspace-wide thread impls"
+authors = ["Cody Schafer <dev@codyps.com>"]
+license = "Apache-2.0 OR MIT"
 
 [dependencies]
