@@ -2,6 +2,6 @@
 name = "thread-compat"
 version = "0.1.0"
 edition = "2021"
-description = "std::thread re-exports as a crate so they can be patched on a per-workspace level"
+description = "std::thread passthrough, designed to be patched on a per-workspace level to provide alternate workspace-wide thread impls"
 
 [dependencies]
