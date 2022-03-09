@@ -1,0 +1,7 @@
+[package]
+name = "thread-compat"
+version = "0.1.0"
+edition = "2021"
+description = "std::thread re-exports as a crate so they can be patched on a per-workspace level"
+
+[dependencies]
