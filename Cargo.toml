@@ -1,5 +1,5 @@
 [workspace]
 members = [
-	'time-compat',
-	'thread-compat',
+	'time_compat',
+	'thread_compat',
 ]

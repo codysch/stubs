@@ -3,13 +3,9 @@
 version = 3
 
 [[package]]
-name = "sync-mpsc-compat"
+name = "thread_compat"
 version = "0.1.0"
 
 [[package]]
-name = "thread-compat"
-version = "0.1.0"
-
-[[package]]
-name = "time-compat"
+name = "time_compat"
 version = "1.0.0"
