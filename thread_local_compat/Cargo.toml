@@ -1,0 +1,11 @@
+[package]
+name = "thread_local_compat"
+version = "0.1.0"
+edition = "2021"
+authors = ["Cody Schafer <dev@codyps.com>"]
+license = "Apache-2.0 OR MIT"
+description = "std::thread_local passthrough, designed to be patched on a per-workspace level to provide thread_local on systems without std"
+documentation = "https://docs.rs/thread_local_compat"
+repository = "https://github.com/codysch/stubs"
+
+[dependencies]

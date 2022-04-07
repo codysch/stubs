@@ -2,4 +2,5 @@
 members = [
 	'time_compat',
 	'thread_compat',
+	'thread_local_compat',
 ]
