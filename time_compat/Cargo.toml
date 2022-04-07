@@ -1,11 +1,11 @@
 [package]
 name = "time_compat"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 description = "std::time passthrough, designed to be patched on a per-workspace level to provide alternate workspace-wide time sources"
 authors = ["Cody Schafer <dev@codyps.com>"]
 license = "Apache-2.0 OR MIT"
-documentation = "https://docs.rs/thread_compat"
+documentation = "https://docs.rs/time_compat"
 repository = "https://github.com/codysch/stubs"
 
 [dependencies]
