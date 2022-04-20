@@ -1,0 +1,11 @@
+[package]
+name = "sync_compat"
+version = "1.0.0"
+edition = "2021"
+description = "std::sync passthrough, designed to be patched on a per-workspace level to provide alternate workspace-wide locking"
+authors = ["Cody Schafer <dev@codyps.com>"]
+license = "Apache-2.0 OR MIT"
+documentation = "https://docs.rs/sync_compat"
+repository = "https://github.com/codysch/stubs"
+
+[dependencies]
